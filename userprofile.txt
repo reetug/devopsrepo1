@@ -1,0 +1,6 @@
+Hi Saritha 
+Welcome to git hub branch file creation and merging 
+
+this is fist file of new feature branch
+
+Hi from new feature branch1 this changes has been added
