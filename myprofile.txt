@@ -1,6 +1,6 @@
 This is my profile
 Name : Saritha Gurram
 Job: Software Engineer
-Company : TCS
-Location : Hyd
+Company : Tata Consultancy Services
+Location : Hyderabad, TG
 File : edited in myprofile.txt change in second branch file
